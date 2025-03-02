@@ -6,7 +6,7 @@ Workground: Use Key Mapper to map the button to home key
 2. Battery light
 Use lightflow and enable root mode, Samsung root mode for LED select led_r, led_g, led_b and led_w
 
-3.Brightness flickering
+3. Brightness flickering
 Workground: Phh Treble Settings -> Set backlight scale/max backlight level = 0
 
 4a. USB audio play on speaker (have headphone icon)
