@@ -20,3 +20,6 @@ Workground: Disable Ultra low latency output in audio policy in <route> sink = "
 
 - Galaxy wearable doesn work\
 Workground: https://github.com/Linux4/GalaxyWearable
+
+-device model show as TrebleDroid GSI\
+Workground: install TrebleGSIProps in KSU
