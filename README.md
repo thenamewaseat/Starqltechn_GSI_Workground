@@ -1,6 +1,6 @@
 # Starqltechn_GSI_Workground
 
-** - Hard Press Button ** \ 
+ - **Hard Press Button** \ 
 Workground: Use Key Mapper to map the button to home key
 
 - Battery light\
