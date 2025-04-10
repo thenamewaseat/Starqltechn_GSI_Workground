@@ -1,4 +1,4 @@
-# Starqltechn_GSI_Workground
+# Starqltechn(SM-G9600)_GSI_Workground
 
  - **Hard Press Button**\
 Workground: Use Key Mapper to map the button to home key
