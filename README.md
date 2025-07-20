@@ -23,3 +23,12 @@ Workground: https://github.com/Linux4/GalaxyWearable
 
 - **Device model show as TrebleDroid GSI**\
 Workground: install TrebleGSIProps in KSU
+
+- **Force system RW**\
+backup old system, install a system that is rw and restore old system in twrp (tested in EvoX 10.3.1)
+
+- **GSI that boots**\
+Evolutionx 10.3.1
+
+- **GSI that doesn't boots**\
+Android 16 qpr0 (possibly because my vendor is Jan1, May1 should can boot)
