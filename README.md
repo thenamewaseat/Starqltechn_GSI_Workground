@@ -31,4 +31,4 @@ backup old system, install a system that is rw and restore old system in twrp (t
 Evolutionx 10.3.1
 
 - **GSI that doesn't boots**\
-Android 16 qpr0 (possibly because my vendor is Jan1, May1 should can boot)
+Android 16 qpr0 (possibly because my vendor is Jan1 G9600ZCS9FVA4, May1 G9600ZCU9FVE3 should can boot)
